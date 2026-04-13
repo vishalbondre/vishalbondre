@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal
 
-<!--
-**vishalbondre/vishalbondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **Full Stack Java Developer**
+💻 Passionate about building scalable web apps
+📍 Pune, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 Student at MES IMCC
+* 🌱 Currently learning **Spring Boot, React, PostgreSQL**
+* 🔧 Working on real-world projects
+* 🎯 Goal: Become a professional full-stack developer
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vishalbondre\&show_icons=true\&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=vishalbondre\&theme=radical)
+
+---
+
+## 📈 Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/vishalbondre)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:vishalb0703@gmail.com)
+
+---
+
+## 👀 Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+
+---
+
+## ⚡ Fun Section
+
+<details>
+<summary>Click to see something cool 😏</summary>
+
+```java
+while(!success){
+    tryAgain();
+}
+```
+
+</details>
+
+---
+
+## ✨ Quote
+
+> "Consistency beats talent and as you can see I'm not consistent."
