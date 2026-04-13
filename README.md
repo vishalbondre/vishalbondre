@@ -46,7 +46,7 @@
 
 ## 📈 Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalbondre\&theme=react-dark)
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## 👀 Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=vishalbondre\&color=blue)
 
 ---
 
