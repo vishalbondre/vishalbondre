@@ -9,9 +9,7 @@
 ## 🧑‍💻 About Me
 
 * 🎓 Student at MES IMCC
-* 🌱 Currently learning **Spring Boot, React, PostgreSQL**
 * 🔧 Working on real-world projects
-* 🎯 Goal: Become a professional full-stack developer
 
 ---
 
@@ -60,21 +58,6 @@
 ## 👀 Profile Views
 
 ![Visitors](https://komarev.com/ghpvc/?username=vishalbondre\&color=blue)
-
----
-
-## ⚡ Fun Section
-
-<details>
-<summary>Click to see something cool 😏</summary>
-
-```java
-while(!success){
-    tryAgain();
-}
-```
-
-</details>
 
 ---
 
